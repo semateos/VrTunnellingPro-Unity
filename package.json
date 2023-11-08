@@ -1,0 +1,9 @@
+{
+    "name": "com.sigtrapgames.vrtunnellingpro",
+    "displayName": "VR Tunnelling Pro",
+    "version": "1.4.0",
+    "unity": "2018.1",
+    "description": "Plug-and-play VR comfort for Unity.",
+    "keywords": ["VR", "Comfort", "Tunnelling"],
+    "documentationUrl": "http://www.sigtrapgames.com/VrTunnellingPro/html/"
+}
